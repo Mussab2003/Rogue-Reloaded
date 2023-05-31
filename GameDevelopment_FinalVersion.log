@@ -1,0 +1,55 @@
+﻿  Boss.cpp
+E:\Mussab\Game Development\Final Version\Boss.cpp(4,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Bullet.cpp
+  Enemy.cpp
+  EnemyGun1.cpp
+  EnemyGun2.cpp
+  Game.cpp
+  Gun.cpp
+  HUD.cpp
+  ItemDrop.cpp
+E:\Mussab\Game Development\Final Version\ItemDrop.cpp(10,95): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\Mussab\Game Development\Final Version\ItemDrop.cpp(11,94): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\Mussab\Game Development\Final Version\ItemDrop.cpp(12,95): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\Mussab\Game Development\Final Version\ItemDrop.cpp(14,94): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Menu.cpp
+E:\Mussab\Game Development\Final Version\Menu.cpp(648,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+E:\Mussab\Game Development\Final Version\Player.cpp(123,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\Mussab\Game Development\Final Version\Player.cpp(123,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  PlayerGun1.cpp
+  PlayerGun2.cpp
+  SideKick1.cpp
+E:\Mussab\Game Development\Final Version\SideKick1.cpp(122,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SideKick2.cpp
+E:\Mussab\Game Development\Final Version\SideKick2.cpp(4,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Source.cpp
+  TextureClass.cpp
+  TileSet.cpp
+  Unit.cpp
+  Generating Code...
+  GameDevelopment_FinalVersion.vcxproj -> E:\Mussab\Game Development\Final Version\x64\Debug\GameDevelopment_FinalVersion.exe
